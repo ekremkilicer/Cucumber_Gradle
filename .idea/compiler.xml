@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.snapbytes.snaptest/snaptest-processor/1.2.99/ede40b1cec777b0dbb9324965b79a5ec7f4c990b/snaptest-processor-1.2.99.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.snapbytes.snaptest/snaptest-common/1.2.99/b4aef3e43f79999baa23018bcafa5c1b3ade7007/snaptest-common-1.2.99.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java/3.0.2/6b1790c541528f8b3a47cb7f87aa8125c3139ef0/cucumber-java-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.11.1/210e69f58dfa76c5529a303913b4a30c2bfeb76b/javapoet-1.11.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.10/53ab2f0f92e87ea4874c8c6997335c211d81e636/jackson-annotations-2.9.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/3.0.2/e0135107f8001967938a12feff37636cb2ca18d8/cucumber-core-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-html/0.2.7/5fece7636c0fb0587d8a032a15f96e1ecbe969c0/cucumber-html-0.2.7.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/5.0.0/a05c7dd957349d6ce3908771aa5414cb15777eb7/gherkin-5.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/1.1.1/a5cfcf43577aae5d314af5438459c2af659a1245/tag-expressions-1.1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/5.0.19/1de4713e86d913f716f1634016eabb06cf3d46fe/cucumber-expressions-5.0.19.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/1.0.3/ee455354f436561a9562d6eb882d014beb9fe542/datatable-1.0.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable-dependencies/1.0.3/d57501b70c5dd708a1317291cec73caedbb30267/datatable-dependencies-1.0.3.jar" />
+        </processorPath>
+        <module name="com.mycompany.bootcamp.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+{
+  "baseUrlKey": "SauceDemo",
+  "uriPath": "",
+  "elements": {
+    "username area": "//*[@id='user-name']",
+    "valid username area": "//*[@id='user-name']",
+    "password area": "//*[@id='password']",
+    "valid password area": "//*[@id='password']",
+    "login button": "//*[@id='login-button']",
+    "options dropdown list": "//select[@id='option']",
+    "error alert": "//h3[@data-test='error']",
+    "product link": "//*[@id='item_4_title_link']",
+    "add to cart": "//*[@id='add-to-cart-sauce-labs-backpack']",
+    "remove button": "//*[@id='remove-sauce-labs-backpack']",
+    "cart button": "//*[@id='shopping_cart_container']",
+    "continue shopping button": "//*[@id='continue-shopping']",
+    "checkout button": "//*[@id='checkout']",
+    "firstname area": "//*[@id='first-name']",
+    "lastname area": "//*[@id='last-name']",
+    "postal code area": "//*[@id='postal-code']",
+    "continue button": "//*[@id='continue']",
+    "finish button": "//*[@id='finish']",
+    "order check": "//*[text()='Thank you for your order!']",
+    "options dropdown list second option": "//select[@id='option']/child::option[contains(@value,'option 2')]",
+    "multiple options first option": "//select[@id='owc']/child::option[@value='option 1']",
+    "multiple options second option": "//select[@id='owc']/child::option[@value='option 2']",
+    "message area": "//label[@for='lmsg']/following-sibling::textarea"
+  }
+}
